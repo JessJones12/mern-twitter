@@ -7,3 +7,6 @@ client.connect(err => {
   // perform actions on the collection object
   client.close();
 });
+
+
+mongodb+srv://jj_the_coder:JIlddKeH7b72@cluster0.uxi46.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
